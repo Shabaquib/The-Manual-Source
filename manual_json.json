@@ -581,7 +581,7 @@
             "Name": "Pexels",
             "Link": "https://www.pexels.com/",
             "Image": true,
-            "Image Link": "https://www.pexels.com/assets/static/images/meta/pexels-stock-photos.jpg",
+            "Image Link": "https://raw.githubusercontent.com/Shabaquib/The-Manual-source/main/Exceptions/0044.jpg",
             "Description": "Free stock photos & videos you can use everywhere. Browse millions of high-quality royalty free stock images & copyright free pictures. No attribution required.",
             "Tags": ["Stock Photos", "Stock Videos"],
             "Pricing": ["Freemium"],
